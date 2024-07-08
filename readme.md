@@ -16,6 +16,10 @@ This project offers a robust and easy to implement solution for any application 
 
 ![Captura de pantalla 2024-07-08 121457](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/1b8aa2bd-e924-426c-a906-4894f1cd5763)
 
+
+## GROUP :
+EDWIN ALLAUCA
+SEBASTIÁN CARRERA
 ### Built With
 Python
 Flask
