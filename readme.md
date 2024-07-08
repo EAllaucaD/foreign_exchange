@@ -40,9 +40,13 @@ You can use this project:
 2. To run through the console the application is python divisas.py
 
 OTHER:
+
 3. Have docker installed.
+
 4. Opening a terminal and then the docker file we can execute the command docker build -t divisas .
+
 5. To run the application       docker run -it --publish 5000:5000 divisas
+
 6. Or run using        docker -compose up
 
 ## Example
