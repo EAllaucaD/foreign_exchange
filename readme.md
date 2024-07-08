@@ -14,6 +14,7 @@ This project offers a robust and easy to implement solution for any application 
 
 ![Captura de pantalla 2024-07-08 121451](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/24d04343-cd38-4f7c-951e-63751b1f401a)
 
+![Captura de pantalla 2024-07-08 121457](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/1b8aa2bd-e924-426c-a906-4894f1cd5763)
 
 ### Built With
 Python
