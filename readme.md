@@ -12,6 +12,7 @@ Why this program fills a need
 
 This project offers a robust and easy to implement solution for any application requiring automated currency conversion functionalities.
 
+![Captura de pantalla 2024-07-08 121451](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/24d04343-cd38-4f7c-951e-63751b1f401a)
 
 
 ### Built With
