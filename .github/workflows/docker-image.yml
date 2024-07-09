@@ -19,6 +19,6 @@ jobs:
       run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
       
     - name: Build the Docker image
-      run: docker build -t exchange .
+      run: docker build -t foreign_exchange .
     - name: Push to Dockerhub
-      run: docker push edwinallauca/exchange:latest
+      run: docker push edwinallauca/foreign_exchange:latest
