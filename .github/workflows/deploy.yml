@@ -1,4 +1,4 @@
-name: Dockerize Python Application Foreign Exchange
+name: Dockerize Python Application Foreign_Exchange
 on: push
 jobs:
   build-container:
