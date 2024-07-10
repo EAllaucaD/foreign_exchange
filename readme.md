@@ -17,7 +17,7 @@ This project offers a robust and easy to implement solution for any application 
 ![Captura de pantalla 2024-07-08 121457](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/1b8aa2bd-e924-426c-a906-4894f1cd5763)
 
 
-## GROUP :
+## DEVELOPER GROUP :
 EDWIN ALLAUCA
 SEBASTIÁN CARRERA
 ### Built With
@@ -64,7 +64,3 @@ In this case, the currency that has the value is USD and you want to transform i
 ## Cloud Provider in RAILWAY
 https://foreignexchange-production.up.railway.app/
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 9047ad3ea49fa13db07f8c13a2b59ee1a6d6162b
