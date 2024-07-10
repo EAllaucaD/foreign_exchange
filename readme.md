@@ -20,6 +20,7 @@ This project offers a robust and easy to implement solution for any application 
 
 ## GROUP :
 EDWIN ALLAUCA
+
 SEBASTIÁN CARRERA
 
 ### Built With
@@ -49,7 +50,7 @@ Prerequisites and Installation
 You can use this project: LOCAL
 1. Download the app or the zip from github.
 2. To run through the console the application is python divisas.py
-3. You can use the port 127.0.0.5000
+3. You can use the port 127.0.0.1:5000
 
 
 OTHER: DOCKER
