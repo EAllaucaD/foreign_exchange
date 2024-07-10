@@ -1,12 +1,28 @@
 version: '3'
 services:
-  web:
-    build: .
+  exchange_rate_service:
+    build: 
+      context: .
+      dockerfile: exchange_rate_service/Dockerfile
+    ports:
+      - "5001:5001"
+    env_file:
+      - ./.env
+
+  conversion_service:
+    build: 
+      context: .
+      dockerfile: conversion_service/Dockerfile
+    ports:
+      - "5002:5002"
+    depends_on:
+      - exchange_rate_service
+
+  frontend_service:
+    build: 
+      context: .
+      dockerfile: frontend_service/Dockerfile
     ports:
       - "5000:5000"
-    environment:
-      - FLASK_APP=divisas.py
-      - FLASK_ENV=development
-    volumes:
-      - .:/app
-    command: ["python", "divisas.py"]
+    depends_on:
+      - conversion_service
