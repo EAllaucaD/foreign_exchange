@@ -6,6 +6,8 @@
 This Python project uses Docker and a currency conversion API, providing an automated and scalable solution for performing currency conversions. Docker ensures the portability and consistency of the development environment, while the API allows access to up-to-date exchange rates. This tool is ideal for financial, commercial applications or any environment that requires accurate and timely conversions between different currencies.
 Why this program fills a need
 
+This application complies with the basic principle of microservice.
+
     Efficiency: Automates the currency conversion process, eliminating the need for repetitive manual calculations.
     Accuracy: Uses an updated API to ensure accurate and reliable exchange rates.
     Portability: Encapsulation in Docker ensures that the program runs consistently on various systems and platforms.
@@ -64,7 +66,4 @@ In this case, the currency that has the value is USD and you want to transform i
 ## Cloud Provider in RAILWAY
 https://foreignexchange-production.up.railway.app/
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9047ad3ea49fa13db07f8c13a2b59ee1a6d6162b
