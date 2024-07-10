@@ -1,4 +1,4 @@
-name: CD APP
+name: Deploy EC2
 
 on:
     workflow_run:
