@@ -21,7 +21,7 @@ jobs:
 
       - name: Copy files to EC2
         run: |
-          scp -r -o StrictHostKeyChecking=no ./* ubuntu@${{ secrets.EC2_HOST }}:/home/ubuntu/microservice/
+          scp -r -o StrictHostKeyChecking=no ./* ubuntu@${{ secrets.EC2_HOST }}:/home/ubuntu/exchange/
       - name: SSH into EC2 and deploy
         run: |
           ssh -o StrictHostKeyChecking=no ubuntu@${{ secrets.EC2_HOST }} << 'EOF'
